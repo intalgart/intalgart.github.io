@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>IntALGArt </title>
+    <link>http://intalgart.github.io/tags/post/</link>
+    <language>en-us</language>
+    <author>Daniel Burke</author>
+    <rights>(C) 2015</rights>
+    <updated>2015-11-04 13:10:52 -0500 -0500</updated>
+
+    
+      
+        <item>
+          <title>Contributing to our website</title>
+          <link>http://intalgart.github.io/post/2015/11/04/contributing-to-our-website/</link>
+          <pubDate>Wed, 04 Nov 2015 13:10:52 -0500</pubDate>
+          <author>Daniel Burke</author>
+          <guid>http://intalgart.github.io/post/2015/11/04/contributing-to-our-website/</guid>
+          <description>&lt;p&gt;Our new sie has been updated and with it a improved workflow for collaboration. This site is powered by &lt;a href=&#34;http://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; (a static site generator) that converts markdown files to html and allows for a quick and easy deployment to GitHub pages.&lt;/p&gt;
+
+&lt;p&gt;This allows for many potential contributors to simply perform a pull request and submit a markdown file alongside with the appropriate front matter (metadata about the content).&lt;/p&gt;
+
+&lt;p&gt;Should the pull request be accepted the code will automatically be pushed to the live website via &lt;a href=&#34;http://travis-ci.org&#34;&gt;Travis CI&lt;/a&gt; and published to &lt;a href=&#34;http://intalgart.github.io&#34;&gt;intalgart.github.io&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;For more information on how to contribute to the documentation site please consult the &lt;a href=&#34;https://raw.githubusercontent.com/intalgart/website/master/README.md&#34;&gt;README.md&lt;/a&gt; file.&lt;/p&gt;
+
+&lt;!-- Links Referenced --&gt;
+</description>
+        </item>
+      
+    
+
+  </channel>
+</rss>
